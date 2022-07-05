@@ -1,0 +1,10 @@
+
+@media only screen and (max-width: 1366px) {
+    
+    form label {
+        font-size: 12px;
+    }
+    .nav.nav-tabs.nav-justified .nav-item a.nav-link {        
+        font-size: 10px;
+    }
+  }

@@ -1,0 +1,40 @@
+.bootstraptreeview .list-group .list-group-item.node-colourful-treeview:hover {
+  color: #fff;
+}
+.bootstraptreeview
+  .list-group
+  .list-group-item.node-colourful-treeview.node-selected
+  .badge {
+  background-color: #0287cf;
+  color: #0287cf;
+}
+.bootstraptreeview
+  .list-group
+  .list-group-item.node-node-override-treeview.node-selected
+  .badge,
+.bootstraptreeview
+  .list-group
+  .list-group-item.node-node-override-treeview:last-child
+  .badge {
+  background-color: #fff;
+  color: #ffa87d;
+}
+.bootstraptreeview
+  .list-group
+  .list-group-item.node-node-override-treeview
+  .badge {
+  background-color: #ffa87d;
+  color: #fff;
+}
+.bootstraptreeview .list-group .list-group-item .badge {
+  margin-left: 0.8rem;
+  background-color: #f5f7fa;
+  color: #0287cf;
+}
+.bootstraptreeview .list-group .list-group-item .icon {
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+.dd-list .dd-item > button {
+  margin-top: 0.65rem;
+}
